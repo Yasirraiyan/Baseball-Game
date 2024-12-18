@@ -1,0 +1,27 @@
+import random;
+start=False;
+team=["A","B","C","D","E"];
+end=False
+hit=False
+strike=False
+catch=False
+win=False;
+rd=random.randint(1,5)
+skill=random.randint(1,5)
+ennings=random.randint(1,9)
+score=0;
+life=50;
+chance=5;
+out=False;
+win=False;
+allpassed=False;
+score1=score+50;
+score2=score+100;
+score3=score+150;
+score4=score+200;
+score5=score+250;
+score6=score+300;
+score7=score+350;
+score8=score+400;
+score9=score+450;
+score10=score+500;
