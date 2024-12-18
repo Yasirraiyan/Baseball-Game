@@ -182,5 +182,14 @@ def out(catch):
           win=False;
           print("You looser!");
      print(f"Your final score is:{Finalscore}");
+     first_innings(innings, out) 
+     second_innings(innings, out)
+     third_innings(innings, out) 
+     fourth_innings(innings, out) 
+     fifth_innings(innings, out) 
+     sixth_innings(innings, out) 
+     seventh_innings(innings, out) 
+     eighth_innings(innings, out) 
+     ninth_innings(innings, out)
              
           
